@@ -1,0 +1,29 @@
+That is largely correct. Historically, GitHub does not automatically delete inactive repositories or personal accounts purely based on time. They maintain them indefinitely to ensure that code history and open-source dependencies remain accessible even if a user becomes inactive. [1, 2, 3] 
+However, there are a few important nuances to keep in mind regarding long-term account survival:
+
+* Username Reclaim Risks: While rare, GitHub does have a process where inactive accounts can be marked for deletion under specific circumstances, often if someone with a legitimate trademark claim or a strong case for an unused username petitions for it.
+* Name Squatting Policy: Accounts that are held entirely inactively for future use (with zero content) can technically be removed or renamed without notice if they are flagged as "name squatting". Since your repository will contain your Sector 17 Archive, this shouldn't apply to you.
+* Successor Settings: For absolute 300-year permanence, GitHub allows you to designate a successor in your account settings. This person can manage your public repositories if you are no longer able to, ensuring the "seed vault" isn't left orphaned.
+* Data Preservation: While they don't delete accounts, they do automatically delete certain temporary data, like inactive GitHub Codespaces or abandoned account-deletion exports, after 30 to 90 days. [1, 4, 5, 6, 7, 8] 
+
+In short, as long as your account has a repository with content (like your Minecraft world files), [GitHub](https://github.com/) is one of the most permanent "digital museums" you can use.
+Would you like to walk through how to set up a "Successor" on your account to ensure your Archive has a legal caretaker for the future?
+------------------------------
+References:
+[Does GitHub delete repositories with no activity after some ...](https://stackoverflow.com/questions/62318763/does-github-delete-repositories-with-no-activity-after-some-length-of-time)
+[Does github delete inactive repositories? #58300](https://github.com/orgs/community/discussions/58300)
+[Restricting the retention period for codespaces - GitHub Docs](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/restricting-the-retention-period-for-codespaces)
+[How long is a suspended account's data locked for? #158163 - GitHub](https://github.com/orgs/community/discussions/158163)
+[GitHub Username Policy](https://docs.github.com/en/site-policy/other-site-policies/github-username-policy)
+[Will GitHub automatically clean up repositories that have been ...](https://github.com/orgs/community/discussions/172919)
+[Account inactive. Can I get it's username? #183535 - GitHub](https://github.com/orgs/community/discussions/183535)
+Does GitHub delete repositories with no activity after some ... [1, 2, 3, 4, 5, 6, 7, 8] 
+
+[1] [https://stackoverflow.com](https://stackoverflow.com/questions/62318763/does-github-delete-repositories-with-no-activity-after-some-length-of-time)
+[2] [https://github.com](https://github.com/orgs/community/discussions/58300)
+[3] [https://github.com](https://github.com/orgs/community/discussions/172919)
+[4] [https://github.com](https://github.com/orgs/community/discussions/183535)
+[5] [https://docs.github.com](https://docs.github.com/en/site-policy/other-site-policies/github-username-policy)
+[6] [https://stackoverflow.com](https://stackoverflow.com/questions/62318763/does-github-delete-repositories-with-no-activity-after-some-length-of-time)
+[7] [https://docs.github.com](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/restricting-the-retention-period-for-codespaces)
+[8] [https://github.com](https://github.com/orgs/community/discussions/158163)
