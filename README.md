@@ -9,6 +9,10 @@ FILE DESCRIPTIONS
 
 My House version 1- not available, I deleted it before I found out about github. 
 
-bI0AABXGBgA=.zip- My House V2 (version 2)
+bI0AABXGBgA=.zip- My House V2 (version 2). This project started and ended in 2018. It's a fairly small house on the border of a Jungle with several rooms underwater. 
 
 YIacXf2FAAA=.zip- I started construction in September 2018. This was the third My House. (My House V3). You can learn more about this project here: https://howtotrainyourdragon.fandom.com/f/p/4400000000000021437 (this link takes you to my post on the HTTYD wikia about a later stage of the project). 
+
+
+
+
