@@ -4,3 +4,11 @@ THIS IS A COPY OF ALL THE WORLDS I HAVE BUILT ON MINECRAFT - from the year 2018 
 Do not delete these please. 
 
 All worlds are downloadable as .zip files. 
+
+FILE DESCRIPTIONS 
+
+My House version 1- not available, I deleted it before I found out about github. 
+
+bI0AABXGBgA=.zip- My House V2 (version 2)
+
+YIacXf2FAAA=.zip- I started construction in September 2018. This was the third My House. (My House V3). You can learn more about this project here: https://howtotrainyourdragon.fandom.com/f/p/4400000000000021437 (this link takes you to my post on the HTTYD wikia about a later stage of the project). 
