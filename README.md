@@ -17,7 +17,7 @@ I deleted it before I found out about github (also because I didn't like the des
 
 **bI0AABXGBgA=.zip- My House V2**
 
-This project started in early 2018 and ended in August of the same year. It's a fairly small house on the border of a Jungle with several rooms underwater. 
+This project started in mid 2018 and ended in August of the same year. It's a fairly small house on the border of a Jungle with several rooms underwater. 
 
 **YIacXf2FAAA=.zip- My House V3**
 
