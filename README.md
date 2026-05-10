@@ -9,15 +9,21 @@ All worlds are downloadable as .zip files. Tap CODE, then DOWNLOAD AS ZIP to dow
 
 FILE DESCRIPTIONS 
 
-My House version 1- not available, I deleted it before I found out about github. 
+**MY HOUSE V1**
+
+Not available, unfortunately. 
+
+I deleted it before I found out about github (also because I didn't like the design at all). It is worth noting V1 was built when Update Aquatic was released for Bedrock.
 
 **bI0AABXGBgA=.zip- My House V2**
 
-This project started and ended in 2018. It's a fairly small house on the border of a Jungle with several rooms underwater. 
+This project started in early 2018 and ended in August of the same year. It's a fairly small house on the border of a Jungle with several rooms underwater. 
 
 **YIacXf2FAAA=.zip- My House V3**
 
-I started construction in September 2018. This was the third My House and the largest underwater area is themed significantly around the HTTYD film series. This project lasted for well over two years. At the time, I was significantly interested in the HTTYD film series (HTTYD THW was released in February 2019)
+I started construction in September 2018. This house is far larger than V2 and is on the shoreline of a massive jungle. 
+
+This was the third My House and the largest underwater area is themed significantly around the HTTYD film series. This project lasted for well over two years. At the time, I was significantly interested in the HTTYD film series (HTTYD THW was released in February 2019) 
 
 You can learn more about this project here: https://howtotrainyourdragon.fandom.com/f/p/4400000000000021437 (this link takes you to my post on the HTTYD wikia about a later stage of the project). 
 
