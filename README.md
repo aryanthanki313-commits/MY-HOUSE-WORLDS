@@ -3,7 +3,9 @@ THIS IS A COPY OF ALL THE WORLDS I HAVE BUILT ON MINECRAFT - from the year 2018 
 
 Do not delete these please. 
 
-All worlds are downloadable as .zip files. 
+These worlds are all MC Bedrock worlds (Bedrock Edition). 
+
+All worlds are downloadable as .zip files. Tap CODE, then DOWNLOAD AS ZIP to download the worlds. They will appear as zip files in the download. You can then extract them to your minecraft worlds folder. 
 
 FILE DESCRIPTIONS 
 
