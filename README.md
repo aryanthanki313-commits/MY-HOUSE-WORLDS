@@ -9,17 +9,17 @@ All worlds are downloadable as .zip files. Tap CODE, then DOWNLOAD AS ZIP to dow
 
 FILE DESCRIPTIONS 
 
-Prior to **MY HOUSE V1**, I made at least 2 different My House worlds (the first in a desert and the second in a mesa biome), though these were never backed up, saved or exported anywhere. One of the worlds corrupted.
+Prior to **My House V1**, I made at least 2 different My House worlds (the first in a desert and the second in a mesa biome), though these were never backed up, saved or exported anywhere. One of the worlds corrupted. Technically, these were my first ever My House worlds. 
 
-**MY HOUSE V1**
+**My House V1**
 
-Not available, unfortunately. 
+Not available, unfortunately. I built this house after the first trailer release for HTTYD 3 (which was in May 2018), on the bus home from school after my end of year exams (I was in UK Year 9 at the time)
 
-I deleted it a long time ago- very soon after I built it. I didn't like the design. It is worth noting V1 was built when Update Aquatic was released for Bedrock. That's why I built it (at the time I was obsessed in building aquariums.)
+I deleted it soon after I built it though- I didn't like the design. V1 was built when Update Aquatic was released for Bedrock. That's why I built it (at the time I was obsessed in building aquariums.)
 
 Like many of the others, this one was built in a large Jungle, though on the mainland and not on a coast. It was set amid a mountainous Jungle region, consisting of a white concrete exterior connected by white concrete walkways and platforms. 
 
-This was also the first house to feature the Toothless banner design that you will find in later worlds. Later worlds feature variations of this as well as banner patterns I made myself. I built this house after the first trailer release for HTTYD 3 (which was in May 2018)
+This was also the first house to feature the Toothless banner design that you will find in later worlds. Later worlds feature variations of this as well as banner patterns I made myself. 
 
 **bI0AABXGBgA=.zip- My House V2**
 
