@@ -13,11 +13,13 @@ FILE DESCRIPTIONS
 
 Not available, unfortunately. 
 
-I deleted it before I found out about github (also because I didn't like the design at all). It is worth noting V1 was built when Update Aquatic was released for Bedrock.
+I deleted it before I found out about github (also because I didn't like the design at all). It is worth noting V1 was built when Update Aquatic was released for Bedrock. That's why I built it (at the time I was obsessed in building aquariums.)
+
+This was also the first house to feature the Toothless banner design that you will find in later worlds. Later worlds feature variations of this as well as banner patterns I made myself. I built this house after the first trailer release for HTTYD 3 (which was in May 2018)
 
 **bI0AABXGBgA=.zip- My House V2**
 
-This project started in mid 2018 and ended in August of the same year. It's a fairly small house on the border of a Jungle with several rooms underwater. 
+This project started in summer 2018 and ended in August 2018. It's a fairly small house on the border of a Jungle with several rooms underwater. 
 
 **YIacXf2FAAA=.zip- My House V3**
 
